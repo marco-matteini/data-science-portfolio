@@ -40,7 +40,7 @@ Use the `yfinance` API to download and visualize stock trends of leading tech co
 
 ## 👤 About Me
 
-I am a Ph.D. candidate in Theoretical Physics, with expertise in cosmology and high-energy physics.
+I am a Ph.D. graduate in Theoretical Physics, with expertise in cosmology and high-energy physics. I worked as a Transaction Monitoring Models Intern at UBS, where I focused on the design, calibration and performance evaluation for the entity resolution algorithm of an internal anti-money-laundering model.
 
 On the side, I am a data science enthusiast. This portfolio showcases my progress in learning data science tools and techniques through project-based learning.
 
